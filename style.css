@@ -13,7 +13,12 @@
     /* Add other styling options here if needed, like padding */
     padding-left: 0;  /* Remove default indentation for list items */
   }
-  .logoName{
+
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     color: rgb(45, 0, 128);
   }
   
